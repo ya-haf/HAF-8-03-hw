@@ -5,5 +5,5 @@
 ### Задание 1
 
 `При необходимости прикрепитe сюда скриншоты
-![CPU.png](https://github.com/ya-haf/HAF-8-03-hw/blob/577a6df9bc827d7fc05f476d0b1b0f77df288e1b/img/CPU.png)`
+![CPU.png](https://github.com/ya-haf/HAF-8-03-hw/blob/main/img/CPU.png?raw=true)`
 
