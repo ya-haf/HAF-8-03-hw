@@ -5,4 +5,4 @@
 ### Задание 1
 
 
-![CPU.png](/home/haf/git/HAF-8-03-hw/img/CPU.png)`
+![CPU.png](https://github.com/ya-haf/HAF-8-03-hw/blob/main/img/CPU.png?raw=true)`
