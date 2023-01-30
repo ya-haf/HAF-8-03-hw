@@ -7,3 +7,4 @@
 `При необходимости прикрепитe сюда скриншоты
 ![CPU.png](https://github.com/ya-haf/HAF-8-03-hw/blob/main/img/CPU.png?raw=true)`
 
+---
