@@ -15,4 +15,4 @@
 ### Задание 1
 
 
-
+![CPU.png](https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix.png?raw=true)
