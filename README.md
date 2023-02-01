@@ -16,3 +16,13 @@
 
 
 ![CPU.png](https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix.png?raw=true)
+
+
+### Задание 2
+
+
+![Zabbix1.png](https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix1.png?raw=true)
+
+![Zabbix2.png](https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix2.png?raw=true)
+
+![Zabbix3.png](https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix3.png?raw=true)
