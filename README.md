@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-![CPU.png](https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/CPU.png?raw=true)
+<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/CPU.png?raw=true" width=50% height=50%>
 
 ## Домашнее задание к занятию `9.2 «Zabbix. Часть 1» - Хисаметдинов Айрат`
 
