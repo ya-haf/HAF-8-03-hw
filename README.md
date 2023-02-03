@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/CPU.png?raw=true" width=50% height=50%>
+<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/CPU.png?raw=true" width=30% height=30%>
 
 ## Домашнее задание к занятию `9.2 «Zabbix. Часть 1» - Хисаметдинов Айрат`
 
@@ -12,10 +12,7 @@
 
 ### Задание 1
 
-<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix.png?raw=true" width=50% height=50%>
-<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/LogsZabbix1.png?raw=>" width=50% height=50%>
-<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/LogsZabbix2.png?raw=>" width=50% height=50%>
-<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/LogsZabbix3.png?raw=>" width=50% height=50%>
+<img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/Zabbix.png?raw=true" width=30% height=30%> <img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/LogsZabbix1.png?raw=>" width=30% height=30%> <img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/LogsZabbix2.png?raw=>" width=30% height=30%> <img src="https://github.com/ya-haf/HAF-gitlub-hw/blob/main/img/LogsZabbix3.png?raw=>" width=30% height=30%>
 
 ### Задание 2
 
